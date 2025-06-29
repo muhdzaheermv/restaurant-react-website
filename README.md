@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Website using ReactJS
 
-![Homepage](./src/assets/images/homepage.png)
+![Homepage](./src/assets/images/hotel.png)
 
 A beautifully crafted and fully responsive **Restaurant Website** built with **ReactJS**. This project is ideal for showcasing a food brand online with sections like menu, about, contact, and hero banner — all designed with a modern aesthetic.
 
@@ -22,9 +22,6 @@ A beautifully crafted and fully responsive **Restaurant Website** built with **R
 - Menu, About, Hero, and Contact sections
 - Clean and elegant UI/UX design
 
-## 📸 Screenshot
-
-![Homepage](./src/assets/images/homepage.png)
 
 ## 📚 Ideal For
 
